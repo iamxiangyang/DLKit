@@ -56,18 +56,18 @@ NSString *const kDLAnimationType = @"kDLAnimationType";
     self.frame = frame;
 }
 
-- (CGFloat)leDL {
+- (CGFloat)left {
     return self.origin.x;
 }
 
-- (void)setLeDL:(CGFloat)leDL {
+- (void)setLeft:(CGFloat)left {
     CGRect frame = self.frame;
-    frame.origin.x = leDL;
+    frame.origin.x = left;
     self.frame = frame;
 }
 
 - (CGFloat)right {
-    return self.leDL + self.width;
+    return self.left + self.width;
 }
 
 - (void)setRight:(CGFloat)right {
