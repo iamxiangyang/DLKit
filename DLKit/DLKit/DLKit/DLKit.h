@@ -42,6 +42,8 @@
 
 #import "DLTouchID.h"
 
+#import "GTCommontHeader.h"
+
 #define _XLOG 1
 
 #ifdef  _XLOG

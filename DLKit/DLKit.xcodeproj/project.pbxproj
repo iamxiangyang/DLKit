@@ -128,6 +128,7 @@
 		FC5067C91AC2819D003ED64C /* NSObject+DLExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+DLExtension.m"; sourceTree = "<group>"; };
 		FC5067CB1AC2838E003ED64C /* DLTouchID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLTouchID.h; sourceTree = "<group>"; };
 		FC5067CC1AC2838E003ED64C /* DLTouchID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLTouchID.m; sourceTree = "<group>"; };
+		FC5067CE1AC29900003ED64C /* GTCommontHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTCommontHeader.h; sourceTree = "<group>"; };
 		FC70492A1AC14C5F002A5A51 /* DLKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DLKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC70492E1AC14C5F002A5A51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC70492F1AC14C5F002A5A51 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -357,6 +358,7 @@
 			isa = PBXGroup;
 			children = (
 				FC5067B61AC27DCC003ED64C /* UIDeviceUtil.h */,
+				FC5067CE1AC29900003ED64C /* GTCommontHeader.h */,
 				FC5067B71AC27DCC003ED64C /* UIDeviceUtil.m */,
 				FC5067B21AC27D0A003ED64C /* Toast */,
 				FC5067A91AC27AA8003ED64C /* EGOCache.h */,
